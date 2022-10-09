@@ -47,29 +47,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Jarotr_' //Link Instagrammu
-global.sgh = 'https://github.com/Alpiii22' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/GPMdyM0uDMP789G3IGMHda'
+global.sig = 'https://instagram.com/dilzpx_' //Link Instagrammu
+global.sgh = 'https://github.com/aidilm01' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/IlskySeebRgJKKXnRGftd0'
 global.sdc = '_'
 global.stg = 'https://instagram.com/Jarotr_'
 global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085850539404' //Nomor Danamu
-global.ppulsa = '085850539404' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '081380448281' //Nomor Danamu
+global.ppulsa = '081380448281' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'gada' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281376349712' //Nomor Bot
-global.nomorown = '6285850539404' //Nomor Owner
-global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
-global.nameown = 'Oscar Offc'  // Nama Owner
+global.nomorbot = '6285724331475' //Nomor Bot
+global.nomorown = '6281380448281' //Nomor Owner
+global.namebot = 'DILZPX-BOT'  //Nama Bot
+global.nameown = 'DILZPX'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281380448281', '❦ Dilzpx 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 OSCAR-MULTIDEVICE 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Oscar-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  OSCAR-MD'
+global.wm = '                「 DILZPX BOT 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DILZPX˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  DILZPX-BOT'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -372,7 +372,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ OSCAR'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ DILZPX'
 
 global.multiplier = 38 // The higher, The harder levelup
 
