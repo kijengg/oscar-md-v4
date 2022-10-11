@@ -51,7 +51,7 @@ global.sig = 'https://instagram.com/dilzpx_' //Link Instagrammu
 global.sgh = 'https://github.com/aidilm01' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/IlskySeebRgJKKXnRGftd0'
 global.sdc = '_'
-global.stg = 'https://instagram.com/Jarotr_'
+global.stg = 'https://instagram.com/dilzpx_'
 global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
