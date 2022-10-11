@@ -47,11 +47,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/dilzpx_' //Link Instagrammu
-global.sgh = 'https://github.com/aidilm01' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IlskySeebRgJKKXnRGftd0'
+global.sig = '-' //Link Instagrammu
+global.sgh = 'https://github.com/kijengg' //Link Githubmu
+global.sgc = '-'
 global.sdc = '_'
-global.stg = 'https://instagram.com/dilzpx_'
+global.stg = '-'
 global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -61,15 +61,15 @@ global.ppulsa = '081380448281' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'gada' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285724331475' //Nomor Bot
-global.nomorown = '6281380448281' //Nomor Owner
-global.namebot = 'DILZPX-BOT'  //Nama Bot
-global.nameown = 'DILZPX'  // Nama Owner
+global.nomorbot = '6288991344802' //Nomor Bot
+global.nomorown = '6283146947747' //Nomor Owner
+global.namebot = 'KYZHE-BOT'  //Nama Bot
+global.nameown = 'KYZHE'  // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281380448281', '❦ Dilzpx 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6283146947747', '❦ KYZHE 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,9 +101,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DILZPX BOT 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DILZPX˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  DILZPX-BOT'
+global.wm = '                「  KYZHE - BOT  」' //Main Watermark
+global.wm2 = 'KYZHE - BOT'
+global.wm3 = '⫹⫺  OWN Kyzhe'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
