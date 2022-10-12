@@ -56,8 +56,8 @@ global.syt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //Isi Pake L
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '081380448281' //Nomor Danamu
-global.ppulsa = '081380448281' //Nomor SimCard Yang Kamu Pake
+global.pdana = '-' //Nomor Danamu
+global.ppulsa = '088991344802','083146947747' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'gada' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
@@ -372,7 +372,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ DILZPX'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ KYZHE'
 
 global.multiplier = 38 // The higher, The harder levelup
 
